@@ -1,0 +1,100 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:fontFamily">@font/avenir_next_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/background</item>
+    </style>
+
+    <style name="ButtonStyle.Forms">
+        <item name="android:background">@color/button</item>
+        <item name="android:textSize">@dimen/button_text</item>
+    </style>
+
+    <style name="EditTextStyle">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:ems">10</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:inputType">text</item>
+        <item name="android:padding">@dimen/field_padding</item>
+        <item name="android:textColorHint">@android:color/darker_gray</item>
+        <item name="android:textSize">@dimen/field_text</item>
+    </style>
+
+    <style name="ConstraintLayoutStyle">
+        <item name="android:background">@color/background</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+
+    <style name="EditTextStyle.EmailAddress">
+        <item name="android:inputType">textEmailAddress</item>
+    </style>
+
+    <style name="EditTextStyle.Password">
+        <item name="android:inputType">textPassword</item>
+    </style>
+
+    <style name="TextViewStyle" />
+
+    <style name="TextViewStyle.ApplicationName">
+        <item name="android:fontFamily">@font/avenir_next_bold</item>
+        <item name="android:text">@string/applicationName</item>
+        <item name="android:textSize">@dimen/applicationName</item>
+        <item name="android:textColor">@color/applicationName</item>
+    </style>
+
+    <style name="TextViewStyle.Main">
+        <item name="android:textSize">@dimen/textButton_main</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextViewStyle.TextButton">
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textColor">@color/button</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextViewStyle.UserName">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">@dimen/username</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextViewStyle.TextForms">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+
+    <style name="TextViewStyle.TextButton.Main">
+        <item name="android:textSize">@dimen/textButton_main</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

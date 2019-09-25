@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/background</color>
+    <color name="colorPrimaryDark">@color/background</color>
+    <color name="colorAccent">@color/foreground</color>
+
+    <color name="applicationName">@color/foreground</color>
+    <color name="button">@color/foreground</color>
+
+    <color name="background">#F1F5F6</color>
+    <color name="foreground">#E8202B</color>
+
+    <color name="close_background">#FFFFFF</color>
+</resources>

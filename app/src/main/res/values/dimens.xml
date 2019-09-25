@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="applicationName">42sp</dimen>
+
+    <dimen name="button_text">18sp</dimen>
+
+    <dimen name="elevation_bottomNavigationIcon">8dp</dimen>
+
+
+    <dimen name="field_padding">16dp</dimen>
+    <dimen name="field_text">14sp</dimen>
+    <dimen name="guideline_forms_left_right">32dp</dimen>
+    <dimen name="guideline_forms_bottom">16dp</dimen>
+    <dimen name="guideline_title_top">0.15</dimen>
+    <dimen name="guideline_button_signOut">32dp</dimen>
+
+
+    <dimen name="image_userProfile_height">100dp</dimen>
+    <dimen name="image_userProfile_width">100dp</dimen>
+
+    <dimen name="textButton_main">16sp</dimen>
+    <dimen name="username">18sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

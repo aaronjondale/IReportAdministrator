@@ -1,0 +1,54 @@
+<resources>
+    <string name="applicationName">Administrator</string>
+
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="emailAddress">Email Address</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="createAccount">Create Account</string>
+    <string name="byCreating">By creating account you must agree to the</string>
+    <string name="termsOfUse">Terms Of Use</string>
+    <string name="alreadyHaveAnAccount">Already Have An Account</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="next">Next</string>
+    <string name="accountType">Account Type</string>
+    <string name="city">City</string>
+    <string name="upload">Upload</string>
+    <string name="uploadYourProfile">Upload Your Profile Picture to Help Other Users to Identify You</string>
+    <string name="iReportEmailAddress">i.report@gmail.com</string>
+    <string name="havingProblems">Having Problems? Contact us at</string>
+    <string name="account">Account</string>
+    <string name="inbox">Inbox</string>
+    <string name="home">Home</string>
+    <string name="signOut">Sign Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_post">PostActivity</string>
+    <string name="dontHave">Don\'t Have An Account?</string>
+    <string name="post">Post</string>
+    <string name="cancel">Cancel</string>
+    <string name="accident">Accident</string>
+    <string name="calamity">Calamity</string>
+    <string name="crime">Crime</string>
+    <string name="fire">Fire</string>
+    <string name="other">Other</string>
+    <string name="your_api_key">AIzaSyACOT194gBXbq9grWdcDeaFC3MIwQsDFAw</string>
+    <string name="writeACaption">Write a caption...</string>
+    <string name="share">Share</string>
+    <string name="newPost">New Post</string>
+    <string name="approve">Approve</string>
+    <string name="delete">Delete</string>
+    <string name="approved">Approved</string>
+    <string name="pending">Pending</string>
+    <string name="edit">Edit</string>
+
+    <string name="default_notification_channel_id">I Report</string>
+    <string name="title_activity_reports_location">Map</string>
+    <string name="myReports">My Reports</string>
+    <string name="editPost">Edit Post</string>
+    <string name="update">Update</string>
+
+</resources>

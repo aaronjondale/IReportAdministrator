@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087615263210",
+    "firebase_url": "https://i-report-be8ee.firebaseio.com",
+    "project_id": "i-report-be8ee",
+    "storage_bucket": "i-report-be8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087615263210:android:e94f03c3fe5ca311",
+        "android_client_info": {
+          "package_name": "com.neireport.administrator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087615263210-jdruva1lt86fmbja8g6hkuoddq34dolf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.neireport.administrator",
+            "certificate_hash": "0b7d86f1f49fee0b32b2458e023909611348a0da"
+          }
+        },
+        {
+          "client_id": "1087615263210-e0phbjcl9nscduafdch373hh88ss058u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACOT194gBXbq9grWdcDeaFC3MIwQsDFAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087615263210-e0phbjcl9nscduafdch373hh88ss058u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
